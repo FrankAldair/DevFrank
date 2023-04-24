@@ -1,0 +1,10 @@
+body {
+    background-color: #1d2630;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+}
+#actualizar{
+    display: none;
+}
